@@ -2,7 +2,7 @@
 
 if [ -z "$1" ]
 then
-        echo "Usage: ./exorcise.sh <DONMAIN.COM/IP>"
+        echo "Usage: ./exorcise.sh <TARGET>"
         exit 1
 fi
 
