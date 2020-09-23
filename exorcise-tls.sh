@@ -3,7 +3,7 @@
 
 if [ -z "$1" ]
 then
-        echo "Usage: ./exorcise-tls.sh <DONMAIN.COM/IP>"
+        echo "Usage: ./exorcise-tls.sh <TARGET>"
         exit 1
 fi
 
