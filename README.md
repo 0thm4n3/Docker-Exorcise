@@ -20,3 +20,8 @@ $ chmod +x *
 `./exorcise.sh <TARGET>`
 
 `./exorcise-tls.sh <TARGET>`
+
+# References
+- https://www.fortiguard.com/encyclopedia/ips/44527/docker-daemon-unprotected-tcp-socket-command-injection
+- https://vulners.com/metasploit/MSF:EXPLOIT/LINUX/HTTP/DOCKER_DAEMON_TCP
+- https://docs.docker.com/engine/security/
