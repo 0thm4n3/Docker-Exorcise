@@ -1,3 +1,5 @@
+![SydDig Docker Security Image](https://sysdig.com/wp-content/uploads/2017/08/docker_7_security_threats.jpg)
+
 # Docker-Exorcise
 A tool to automate the exploitation Docker Daemon - Unprotected TCP Socket
 
@@ -25,3 +27,6 @@ $ chmod +x *
 - https://www.fortiguard.com/encyclopedia/ips/44527/docker-daemon-unprotected-tcp-socket-command-injection
 - https://vulners.com/metasploit/MSF:EXPLOIT/LINUX/HTTP/DOCKER_DAEMON_TCP
 - https://docs.docker.com/engine/security/
+
+# Credits
+- SysDig for docker security threats image.
