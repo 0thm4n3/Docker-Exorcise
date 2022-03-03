@@ -28,5 +28,8 @@ $ chmod +x *
 - https://vulners.com/metasploit/MSF:EXPLOIT/LINUX/HTTP/DOCKER_DAEMON_TCP
 - https://docs.docker.com/engine/security/
 
+# Disclaimer
+- Usage of Docker Exorcise for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
 # Credits
 - SysDig for docker security threats image.
